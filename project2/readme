@@ -1,0 +1,7 @@
+execution:
+	make
+	./parser < filename
+
+modify:
+	scanner.l 把print token 改成 return token
+

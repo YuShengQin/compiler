@@ -1,0 +1,7 @@
+execution:
+	make
+	./parser filename
+
+modify:
+	轉換至相對應的java bytecode
+
